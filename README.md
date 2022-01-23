@@ -6,12 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=brown)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=shantanusoni72)](https://github.com/shantanusoni72)
+[![Shantanu’s github stats](https://github-readme-stats.vercel.app/api?username=shantanusoni72)](https://github.com/shantanusoni72)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanusoni72&layout=compact)](https://github.com/shantanusoni72)
