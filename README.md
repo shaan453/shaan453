@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**shantanusoni72/shantanusoni72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+![howdy](https://github.com/shantanusoni72/shantanusoni72/assets/75296055/d4263865-1977-4467-86b1-34088a8a913e)
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
